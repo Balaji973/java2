@@ -24,9 +24,8 @@ To write a Java program that demonstrates the use of an Inner Class and how it c
 
 ## PROGRAM:
 
-
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 2122240400423
 
 
 

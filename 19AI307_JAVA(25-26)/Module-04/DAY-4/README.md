@@ -16,8 +16,8 @@ To implement the Factory Design Pattern to send different types of notifications
 
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

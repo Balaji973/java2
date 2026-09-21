@@ -13,10 +13,11 @@ To write character data into a file using the FileWriter class in Java.
 4.	Use write() method to write text into the file.
 5.	Close the FileWriter and handle exceptions using try-catch.
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

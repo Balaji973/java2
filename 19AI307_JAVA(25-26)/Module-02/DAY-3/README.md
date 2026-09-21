@@ -34,10 +34,11 @@ To write a Java program that defines a class BankAccount with private attributes
 
 
 
+
 ## PROGRAM:
 
-## Developed By : BALAJI KAMARAJ
-## Register Number : 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

@@ -18,11 +18,11 @@ To implement Abstraction in Java by defining an abstract class with abstract met
 7. Display the processed result.
 8. End the program.
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
-
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 ## SOURCE CODE:
 ```

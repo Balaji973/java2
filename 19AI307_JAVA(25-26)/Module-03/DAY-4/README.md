@@ -20,10 +20,11 @@ Each judge uses different criteria to score fighters. Based on points, the judge
 7. Display the result as WIN, LOSE, or DRAW.
 8.Stop the program.
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

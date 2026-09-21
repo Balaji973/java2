@@ -20,10 +20,11 @@ Write a Java program that prompts the user to enter a non-negative integer and t
 
 
 
+
 ## PROGRAM:
- 
-## Developed By : BALAJI KAMARAJ
-## Register Number : 212224040043
+
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 ## SOURCE CODE:
 

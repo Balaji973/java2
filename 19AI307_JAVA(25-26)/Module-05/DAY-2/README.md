@@ -17,10 +17,11 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
 
 
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

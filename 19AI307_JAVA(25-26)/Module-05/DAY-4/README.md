@@ -18,10 +18,11 @@ To read a thread name from the user and display the current thread’s name and 
 
 
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

@@ -17,10 +17,11 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
 8. Display results.
 9. Stop the program.
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

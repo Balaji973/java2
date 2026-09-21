@@ -27,10 +27,11 @@ To write a Java program to simulate this elevator logic for a given floor number
 
 
 
+
 ## PROGRAM:
 
-## Developed By : BALAJI KAMARAJ
-## Register Number : 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 ## SOURCE CODE:

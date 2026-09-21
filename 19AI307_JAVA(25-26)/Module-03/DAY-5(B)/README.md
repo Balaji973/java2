@@ -18,10 +18,11 @@ To write a Java program to find the largest digit in a given number using Wrappe
 7. Display the largest digit.
 8. Stop the program.
 
+
 ## PROGRAM:
 
-## Developed by: BALAJI KAMARAJ
-## RegisterNumber: 212224040043
+## Developed by: BALAJI J
+## RegisterNumber: 212224040042
 
 
 
